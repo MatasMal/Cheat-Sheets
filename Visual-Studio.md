@@ -15,14 +15,17 @@
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Ctrl</kbd> + <kbd>-</kbd>
 - Navigate forward <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
+- Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
 - IDE search <kbd>Ctrl</kbd> + <kbd>Q</kbd>
 - Symbol search <kbd>Ctrl</kbd> + <kbd>,</kbd>
-- Zoom out <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
-- Zoom in <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
+- Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
+- Zoom in <kbd>Ctrl</kbd> + <kbd>=</kbd>
 - New item <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
 - Next tab <kbd>Ctrl</kbd> + <kbd>PgDown</kbd>
 - Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
+- Next method <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>
+- Previous method <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>[</kbd>
 
 ## Debugging
 
@@ -37,21 +40,21 @@
 
 ## Editing
 
-- Comment a line <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>C</kbd
-- Uncomment a line <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>U</kbd>
-- Toggle all outlining <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>L</kbd>
-- Expand current region <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>E</kbd>
-- Collapse to definition <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
-- List all members <kbd>Ctrl</kbd> + <kbd>J</kbd>
-- Parameter info <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
-- Quick info <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>I</kbd>
+- Toggle comment <kbd>Ctrl</kbd> + <kbd>/</kbd>
+- Expand current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
+- Collapse current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
+- Collapse to definition <kbd>Ctrl</kbd> + <kbd>[</kbd>
+- Expand all outlining <kbd>Ctrl</kbd> + <kbd>[</kbd>
 - Complete word <kbd>Ctrl</kbd> + <kbd>Space</kbd>
-- Rename <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>R</kbd>
+- Parameter info <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
 - Quick suggestion <kbd>Ctrl</kbd> + <kbd>.</kbd>
-- Format document <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>D</kbd>
-- Format selection <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd>
-- Move line up <kbd>Alt</kbd> + <kbd>Up</kbd>
+- Rename code <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
+- Rename file <kbd>F2</kbd>
+- Format document <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
+- Delete line <kbd>Shift</kbd> + <kbd>Del</kbd>
 - Move line down <kbd>Alt</kbd> + <kbd>Down</kbd>
+- Move line up <kbd>Alt</kbd> + <kbd>Up</kbd>
 - Increase line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
 - Decrease line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>,</kbd>
-- Delete line <kbd>Ctrl</kbd> + <kbd>Del</kbd>
+- List all members <kbd>Ctrl</kbd> + <kbd>J</kbd>
+- Quick info <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>I</kbd>
