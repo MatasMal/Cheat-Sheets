@@ -12,18 +12,23 @@
 - Solution explorer <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>
 - Debug perspective <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, <kbd>D</kbd>
 - Java perspective <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, <kbd>J</kbd>
-- Output <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>
+- Console <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>C</kbd>
+- Package explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>P</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
-- Navigate backward <kbd>Ctrl</kbd> + <kbd>-</kbd>
-- Navigate forward <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
+- Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
+- Navigate forward <kbd>Alt</kbd> + <kbd>Right</kbd>
 - Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
-- IDE search <kbd>Ctrl</kbd> + <kbd>Q</kbd>
+- Cycle perspectives <kbd>Ctrl</kbd> + <kbd>F8</kbd>
+- Cycle views <kbd>Ctrl</kbd> + <kbd>F7</kbd>
+- IDE search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Symbol search <kbd>Ctrl</kbd> + <kbd>,</kbd>
+- Resource search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
+- Type search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>
 - Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
 - Zoom in <kbd>Ctrl</kbd> + <kbd>=</kbd>
-- New item <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
+- New item <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
 - Next tab <kbd>Ctrl</kbd> + <kbd>PgDown</kbd>
 - Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
 - Next method <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>
@@ -53,6 +58,7 @@
 - Rename code <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
 - Rename file <kbd>F2</kbd>
 - Format document <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
+- Organize imports <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
 - Delete line <kbd>Shift</kbd> + <kbd>Del</kbd>
 - Move line down <kbd>Alt</kbd> + <kbd>Down</kbd>
 - Move line up <kbd>Alt</kbd> + <kbd>Up</kbd>

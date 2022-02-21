@@ -13,15 +13,15 @@
 - Output <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
-- Navigate backward <kbd>Ctrl</kbd> + <kbd>-</kbd>
-- Navigate forward <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
+- Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
+- Navigate forward <kbd>Alt</kbd> + <kbd>Right</kbd>
 - Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
-- IDE search <kbd>Ctrl</kbd> + <kbd>Q</kbd>
+- IDE search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Symbol search <kbd>Ctrl</kbd> + <kbd>,</kbd>
 - Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
 - Zoom in <kbd>Ctrl</kbd> + <kbd>=</kbd>
-- New item <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
+- New item <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
 - Next tab <kbd>Ctrl</kbd> + <kbd>PgDown</kbd>
 - Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
 - Next method <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>
