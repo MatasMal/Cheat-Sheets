@@ -33,7 +33,7 @@
 - Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
 - Next method <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>
 - Previous method <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>[</kbd>
-- Open breadcrumb <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
+- Open breadcrumb <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>/</kbd>
 
 ## Debugging
 
