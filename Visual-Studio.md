@@ -5,10 +5,10 @@
 - Open anything from the toolbar <kbd>Alt</kbd> + <code>highlighted key in the toolbar</code>
 - Open code window <kbd>F7</kbd>
 - Go to definition <kbd>F12</kbd>
-- Peak definition <kbd>Alt</kbd> + <kbd>F12</kbd>
+- Peek definition <kbd>Alt</kbd> + <kbd>F12</kbd>
 - Go to implementation <kbd>Ctrl</kbd> + <kbd>F12</kbd>
 - Find references <kbd>Shift</kbd> + <kbd>F12</kbd>
-- Call hierarchy <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>T</kbd>
+- Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - Solution explorer <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>
 - Output <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
@@ -29,14 +29,14 @@
 
 ## Debugging
 
-- Build application <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
+- Build application <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F5</kbd>
 - Debug application / resume <kbd>F5</kbd>
 - Stop application <kbd>Shift</kbd> + <kbd>F5</kbd>
 - Step into <kbd>F11</kbd>
 - Step over <kbd>F10</kbd>
 - Step out <kbd>Shift</kbd> + <kbd>F11</kbd>
-- Toggle breakpoint <kbd>F9</kbd>
-- Breakpoint condition <kbd>Alt</kbd> + <kbd>F9</kbd>, <kbd>C</kbd>
+- Toggle breakpoint <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
+- Breakpoint condition <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 
 ## Editing
 
