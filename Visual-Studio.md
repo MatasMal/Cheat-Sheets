@@ -16,6 +16,13 @@
 - Navigate backward <kbd>Ctrl</kbd> + <kbd>-</kbd>
 - Navigate forward <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
+- IDE search <kbd>Ctrl</kbd> + <kbd>Q</kbd>
+- Symbol search <kbd>Ctrl</kbd> + <kbd>,</kbd>
+- Zoom out <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
+- Zoom in <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
+- New item <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
+- Next tab <kbd>Ctrl</kbd> + <kbd>PgDown</kbd>
+- Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
 
 ## Debugging
 
@@ -32,11 +39,18 @@
 
 - Comment a line <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>C</kbd
 - Uncomment a line <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>U</kbd>
-- Toggle all fine code expansion/collapsion <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>L</kbd>
+- Toggle all outlining <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>L</kbd>
 - Expand current region <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>E</kbd>
-- Collapse current region <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
+- Collapse to definition <kbd>Ctrl</kbd> + <kbd>M</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
 - List all members <kbd>Ctrl</kbd> + <kbd>J</kbd>
 - Parameter info <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
 - Quick info <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>I</kbd>
 - Complete word <kbd>Ctrl</kbd> + <kbd>Space</kbd>
 - Rename <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>R</kbd>
+- Quick suggestion <kbd>Ctrl</kbd> + <kbd>.</kbd>
+- Format document <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>D</kbd>
+- Format selection <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd>
+- Move line up <kbd>Alt</kbd> + <kbd>Up</kbd>
+- Move line down <kbd>Alt</kbd> + <kbd>Down</kbd>
+- Increase line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
+- Decrease line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>,</kbd>
