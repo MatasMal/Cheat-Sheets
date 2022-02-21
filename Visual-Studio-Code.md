@@ -11,6 +11,7 @@
 - Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - File explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>
 - Toggle output <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
+- Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
