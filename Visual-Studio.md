@@ -44,7 +44,7 @@
 - Expand current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
 - Collapse current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 - Collapse to definition <kbd>Ctrl</kbd> + <kbd>[</kbd>
-- Expand all outlining <kbd>Ctrl</kbd> + <kbd>[</kbd>
+- Expand all outlining <kbd>Ctrl</kbd> + <kbd>]</kbd>
 - Complete word <kbd>Ctrl</kbd> + <kbd>Space</kbd>
 - Parameter info <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
 - Quick suggestion <kbd>Ctrl</kbd> + <kbd>.</kbd>
