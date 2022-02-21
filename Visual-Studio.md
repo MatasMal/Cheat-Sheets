@@ -54,3 +54,4 @@
 - Move line down <kbd>Alt</kbd> + <kbd>Down</kbd>
 - Increase line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
 - Decrease line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>,</kbd>
+- Delete line <kbd>Ctrl</kbd> + <kbd>Del</kbd>
