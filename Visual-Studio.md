@@ -11,6 +11,8 @@
 - Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - Solution explorer <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>
 - Output <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>
+- Team explorer home <kbd>Ctrl</kbd> + <kbd>0</kbd> + <kbd>H</kbd>
+- Team explorer git changes <kbd>Ctrl</kbd> + <kbd>0</kbd> + <kbd>G</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
