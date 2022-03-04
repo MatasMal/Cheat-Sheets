@@ -58,5 +58,5 @@
 - Increase line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
 - Decrease line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>,</kbd>
 - Toggle Vrapper <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>
-- Search symbol in workspace <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>
+- Search symbol in workspace <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
 - Search symbol in editor <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
