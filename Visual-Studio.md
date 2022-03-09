@@ -39,6 +39,8 @@
 - Step out <kbd>Shift</kbd> + <kbd>F11</kbd>
 - Toggle breakpoint <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Breakpoint condition <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
+- Autos window <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>A</kbd>
+- Locals window <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>L</kbd>
 
 ## Editing
 
