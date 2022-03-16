@@ -68,3 +68,4 @@
 - Increase line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
 - Decrease line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>,</kbd>
 - Toggle Vrapper <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>
+- Surround with <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Z</kbd>
