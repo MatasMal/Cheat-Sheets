@@ -15,6 +15,7 @@
 - Console <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>C</kbd>
 - Package explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>P</kbd>
 - Boot dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
+- Close current view <kbd>Alt</kbd> + <kbd>-</kbd>, <kbd>C</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
