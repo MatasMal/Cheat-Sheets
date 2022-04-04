@@ -12,6 +12,7 @@
 - Solution explorer <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>
 - Debug perspective <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, <kbd>D</kbd>
 - Java perspective <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, <kbd>J</kbd>
+- Java Zen perspective <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - Console <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>C</kbd>
 - Package explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>P</kbd>
 - Boot dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
