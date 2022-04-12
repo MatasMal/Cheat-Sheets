@@ -43,6 +43,7 @@
 - Debug application / resume <kbd>F5</kbd>
 - Debug multiple Spring Boot applications <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F5</kbd>
 - Stop application <kbd>Shift</kbd> + <kbd>F5</kbd>
+- Stop multiple <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F4</kbd>
 - Step into <kbd>F11</kbd>
 - Step over <kbd>F10</kbd>
 - Step out <kbd>Shift</kbd> + <kbd>F11</kbd>
