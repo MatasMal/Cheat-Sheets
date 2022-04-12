@@ -36,6 +36,7 @@
 - Focus outline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>O</kbd>
 - Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
 - Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
+- Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
 
 ## Debugging
 
