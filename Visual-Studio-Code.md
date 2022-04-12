@@ -50,6 +50,8 @@
 - Toggle breakpoint <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Breakpoint condition <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Focus call stack <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>C</kbd>
+- Focus variables <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>V</kbd>
+- Focus breakpoints <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>B</kbd>
 
 ## Editing
 
