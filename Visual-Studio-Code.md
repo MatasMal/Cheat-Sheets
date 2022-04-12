@@ -29,6 +29,10 @@
 - Next tab <kbd>Ctrl</kbd> + <kbd>PgDown</kbd>
 - Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
 - Open breadcrumb <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>/</kbd>
+- Open terminal in a folder <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
+- Navigate through terminals <kbd>Ctrl</kbd> + <kbd>Page up</kbd>/<kbd>Page down</kbd>
+- Split terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd>
+- Kill active terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>
 
 ## Debugging
 
