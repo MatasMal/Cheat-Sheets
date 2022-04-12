@@ -33,6 +33,9 @@
 - Navigate through terminals <kbd>Ctrl</kbd> + <kbd>Page up</kbd>/<kbd>Page down</kbd>
 - Split terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd>
 - Kill active terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>
+- Focus outline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>O</kbd>
+- Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
+- Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
 
 ## Debugging
 
