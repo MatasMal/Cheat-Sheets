@@ -41,6 +41,7 @@
 
 - Build application <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F5</kbd>
 - Debug application / resume <kbd>F5</kbd>
+- Debug multiple Spring Boot applications <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F5</kbd>
 - Stop application <kbd>Shift</kbd> + <kbd>F5</kbd>
 - Step into <kbd>F11</kbd>
 - Step over <kbd>F10</kbd>
