@@ -40,6 +40,8 @@
 - Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
 - Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
 - Show test output <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
+- Run all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>F</kbd>
+- Run cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>C</kbd>
 
 ## Debugging
 
