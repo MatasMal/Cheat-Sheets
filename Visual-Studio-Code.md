@@ -39,6 +39,7 @@
 - Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
 - Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
 - Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
+- Show test output <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
 
 ## Debugging
 
