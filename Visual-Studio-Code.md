@@ -10,6 +10,7 @@
 - Find references <kbd>Shift</kbd> + <kbd>F12</kbd>
 - Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - File explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>
+- Git panel <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>G</kbd>
 - Toggle output <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>U</kbd>
 - Toggle terminal <kbd>Ctrl</kbd> + <kbd>`</kbd>
 - Toggle problems <kbd>Ctrl</kbd> + <kbd>M</kbd>
