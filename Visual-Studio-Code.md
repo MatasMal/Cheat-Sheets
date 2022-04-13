@@ -42,6 +42,8 @@
 - Show test output <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
 - Run all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>F</kbd>
 - Run cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>C</kbd>
+- Debug all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd>
+- Debug cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>C</kbd>
 
 ## Debugging
 
