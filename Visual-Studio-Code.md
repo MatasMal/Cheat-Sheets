@@ -44,6 +44,7 @@
 - Run cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>C</kbd>
 - Debug all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Debug cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>C</kbd>
+- Clear test results <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Delete</kbd>
 
 ## Debugging
 
