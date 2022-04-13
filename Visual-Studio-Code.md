@@ -77,6 +77,7 @@
 - Quick suggestion <kbd>Ctrl</kbd> + <kbd>.</kbd>
 - Rename code <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
 - Rename file <kbd>F2</kbd>
+- Advanced new file <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>, <kbd>N</kbd>
 - Format document <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - ESLint fix all auto-fixable problems <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd>
 - Refactor code <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>
