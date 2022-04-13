@@ -7,6 +7,7 @@
 - Go to definition <kbd>F12</kbd>
 - Peek definition <kbd>Alt</kbd> + <kbd>F12</kbd>
 - Go to implementation <kbd>Ctrl</kbd> + <kbd>F12</kbd>
+- Go to super implementation <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd>
 - Find references <kbd>Shift</kbd> + <kbd>F12</kbd>
 - Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - File explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>
