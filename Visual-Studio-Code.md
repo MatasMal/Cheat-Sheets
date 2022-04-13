@@ -10,7 +10,7 @@
 - Find references <kbd>Shift</kbd> + <kbd>F12</kbd>
 - Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - File explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>
-- Toggle output <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
+- Toggle output <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>U</kbd>
 - Toggle terminal <kbd>Ctrl</kbd> + <kbd>`</kbd>
 - Toggle problems <kbd>Ctrl</kbd> + <kbd>M</kbd>
 - Toggle debug console <kbd>Ctrl</kbd> + <kbd>Y</kbd>
@@ -42,9 +42,9 @@
 
 - Build application <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F5</kbd>
 - Debug application / resume <kbd>F5</kbd>
-- Debug multiple Spring Boot applications <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F5</kbd>
+- Debug multiple Spring Boot applications <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F8</kbd>
 - Stop application <kbd>Shift</kbd> + <kbd>F5</kbd>
-- Stop multiple <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F4</kbd>
+- Stop multiple <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F7</kbd>
 - Step into <kbd>F11</kbd>
 - Step over <kbd>F10</kbd>
 - Step out <kbd>Shift</kbd> + <kbd>F11</kbd>
