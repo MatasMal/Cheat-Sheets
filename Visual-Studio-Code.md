@@ -26,6 +26,7 @@
 - Navigate forward <kbd>Alt</kbd> + <kbd>Right</kbd>
 - Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
+- Split editor <kbd>Ctrl</kbd> + <kbd>\\</kbd>
 - IDE search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Settings search <kbd>Ctrl</kbd> + <kbd>,</kbd>
 - Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
