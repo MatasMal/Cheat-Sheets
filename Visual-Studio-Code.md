@@ -27,6 +27,7 @@
 - Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
 - Split editor <kbd>Ctrl</kbd> + <kbd>\\</kbd>
+- Move editor to new split editor <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
 - IDE search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Settings search <kbd>Ctrl</kbd> + <kbd>,</kbd>
 - Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
