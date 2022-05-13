@@ -20,6 +20,7 @@
 - Toggle problems <kbd>Ctrl</kbd> + <kbd>M</kbd>
 - Toggle debug console <kbd>Ctrl</kbd> + <kbd>Y</kbd>
 - Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
+- Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
