@@ -21,6 +21,7 @@
 - Toggle debug console <kbd>Ctrl</kbd> + <kbd>Y</kbd>
 - Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
+- Move editor group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Left</kbd> / <kbd>Right</kbd> / <kbd>Up</kbd> / <kbd>Down</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
