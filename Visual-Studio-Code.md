@@ -100,6 +100,7 @@
 ### IDE features
 
 - Toggle comment <kbd>Ctrl</kbd> + <kbd>/</kbd>
+- Toggle block comment <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd>
 - Complete word <kbd>Ctrl</kbd> + <kbd>Space</kbd>
 - Quick suggestion <kbd>Ctrl</kbd> + <kbd>.</kbd>
 - Rename code <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
