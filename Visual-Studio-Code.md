@@ -2,16 +2,10 @@
 
 ## Navigation
 
+### IDE navigation
+
 - Open anything from the toolbar <kbd>Alt</kbd> + <code>highlighted key in the toolbar</code>
 - Open code window <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
-- Go to definition <kbd>F12</kbd>
-- Peek definition <kbd>Alt</kbd> + <kbd>F12</kbd>
-- Go to implementation <kbd>Ctrl</kbd> + <kbd>F12</kbd>
-- Go to super implementation <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd>
-- Find references <kbd>Shift</kbd> + <kbd>F12</kbd>
-- Peek definition <kbd>Alt</kbd> + <kbd>F12</kbd>
-- Peek implementations <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F12</kbd>
-- Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 - File explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>
 - Collapse folders in file explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd>
 - Git panel <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>G</kbd>
@@ -19,13 +13,13 @@
 - Toggle terminal <kbd>Ctrl</kbd> + <kbd>`</kbd>
 - Toggle problems <kbd>Ctrl</kbd> + <kbd>M</kbd>
 - Toggle debug console <kbd>Ctrl</kbd> + <kbd>Y</kbd>
+- Focus outline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>O</kbd>
+- Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
+- Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
+- Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
 - Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
 - Move editor group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Left</kbd> / <kbd>Right</kbd> / <kbd>Up</kbd> / <kbd>Down</kbd>
-- Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
-- Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
-- Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
-- Navigate forward <kbd>Alt</kbd> + <kbd>Right</kbd>
 - Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
 - Split editor <kbd>Ctrl</kbd> + <kbd>\\</kbd>
@@ -34,28 +28,36 @@
 - Settings search <kbd>Ctrl</kbd> + <kbd>,</kbd>
 - Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
 - Zoom in <kbd>Ctrl</kbd> + <kbd>=</kbd>
-- New item <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
-- Next tab <kbd>Ctrl</kbd> + <kbd>PgDown</kbd>
-- Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
-- Open breadcrumb <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>/</kbd>
 - Open terminal in a folder <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
 - Navigate through terminals <kbd>Ctrl</kbd> + <kbd>Page up</kbd>/<kbd>Page down</kbd>
 - Split terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd>
 - Kill active terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>
-- Focus outline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>O</kbd>
-- Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
-- Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
-- Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
-- Show test output <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
-- Run all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>F</kbd>
-- Run cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>C</kbd>
-- Run all tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>A</kbd>
-- Debug all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd>
-- Debug cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>C</kbd>
-- Debug all test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>A</kbd>
-- Clear test results <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Delete</kbd>
+- Clear all notifications <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>C</kbd>
+- Focus notification toast <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>T</kbd>
+- Show notifications <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>M</kbd>
 
-## Debugging
+### Code navigation
+
+- Go to definition <kbd>F12</kbd>
+- Peek definition <kbd>Alt</kbd> + <kbd>F12</kbd>
+- Go to implementation <kbd>Ctrl</kbd> + <kbd>F12</kbd>
+- Go to super implementation <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd>
+- Find references <kbd>Shift</kbd> + <kbd>F12</kbd>
+- Peek definition <kbd>Alt</kbd> + <kbd>F12</kbd>
+- Peek implementations <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F12</kbd>
+- Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
+- Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
+- Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
+- Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
+- Navigate forward <kbd>Alt</kbd> + <kbd>Right</kbd>
+- New item <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
+- Next tab <kbd>Ctrl</kbd> + <kbd>PgDown</kbd>
+- Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
+- Open breadcrumb <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>/</kbd>
+
+## Runtime
+
+### Debugging
 
 - Build application <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F5</kbd>
 - Debug application / resume <kbd>F5</kbd>
@@ -72,14 +74,30 @@
 - Focus breakpoints <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>B</kbd>
 - Focus watch <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>W</kbd>
 
+### Testing
+
+- Show test output <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd>
+- Run all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>F</kbd>
+- Run cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>C</kbd>
+- Run all tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>A</kbd>
+- Debug all file tests <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd>
+- Debug cursor test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>C</kbd>
+- Debug all test <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Ctrl</kbd> + <kbd>A</kbd>
+- Clear test results <kbd>Ctrl</kbd> + <kbd>;</kbd>, <kbd>Delete</kbd>
+
 ## Editing
 
-- Toggle comment <kbd>Ctrl</kbd> + <kbd>/</kbd>
+### Code folding
+
 - Expand current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
 - Collapse current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 - Collapse to definition <kbd>Ctrl</kbd> + <kbd>[</kbd>
 - Collapse recursively <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>[</kbd>
 - Expand all outlining <kbd>Ctrl</kbd> + <kbd>]</kbd>
+
+### IDE features
+
+- Toggle comment <kbd>Ctrl</kbd> + <kbd>/</kbd>
 - Complete word <kbd>Ctrl</kbd> + <kbd>Space</kbd>
 - Quick suggestion <kbd>Ctrl</kbd> + <kbd>.</kbd>
 - Rename code <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
