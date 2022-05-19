@@ -119,3 +119,4 @@
 - Search symbol in workspace <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
 - Search symbol in editor <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
 - Show hover information <kbd>g</kbd>, <kbd>h</kbd>
+- Toggle camel case navigation <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>'</kbd>
