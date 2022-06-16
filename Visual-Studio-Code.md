@@ -14,6 +14,7 @@
 - Toggle problems <kbd>Ctrl</kbd> + <kbd>M</kbd>
 - Toggle debug console <kbd>Ctrl</kbd> + <kbd>Y</kbd>
 - Focus outline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>O</kbd>
+- Focus Maven <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>M</kbd>
 - Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
 - Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
 - Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
