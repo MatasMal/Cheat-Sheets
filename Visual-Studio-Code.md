@@ -125,3 +125,8 @@
 - Search symbol in editor <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
 - Show hover information <kbd>g</kbd>, <kbd>h</kbd>
 - Toggle camel case navigation <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>'</kbd>
+
+### Source control
+
+- Stage change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
+- Unstage change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
