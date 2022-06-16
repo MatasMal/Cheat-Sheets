@@ -119,6 +119,7 @@
 - Increase line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
 - Decrease line indent <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>,</kbd>
 - Increase/decrease selection inline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
+- Move selection inline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Page up</kbd>/<kbd>Page down</kbd>
 - Toggle Vrapper <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>
 - Search symbol in workspace <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
 - Search symbol in editor <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
