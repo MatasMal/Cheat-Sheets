@@ -112,7 +112,7 @@
 - Advanced new file <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>, <kbd>N</kbd>
 - Format document <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - ESLint fix all auto-fixable problems <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd>
-- Refactor code <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>
+- Refactor code <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>
 - Source action <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>A</kbd>
 - Delete line <kbd>Shift</kbd> + <kbd>Del</kbd>
 - Move line down <kbd>Alt</kbd> + <kbd>Down</kbd>
