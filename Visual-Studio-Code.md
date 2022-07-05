@@ -21,6 +21,7 @@
 - Focus Database view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>D</kbd>
 - Focus Docker container view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>F</kbd>
 - Focus GitLab view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>G</kbd>
+- Focus NPM scripts view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>N</kbd>
 - Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
 - Move editor group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Left</kbd> / <kbd>Right</kbd> / <kbd>Up</kbd> / <kbd>Down</kbd>
@@ -35,6 +36,7 @@
 - Increase current view size <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
 - Decrease current view size <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 - Open terminal in a folder <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
+- Create new terminal (with profile) <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
 - Navigate through terminals <kbd>Ctrl</kbd> + <kbd>Page up</kbd>/<kbd>Page down</kbd>
 - Split terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd>
 - Kill active terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>
