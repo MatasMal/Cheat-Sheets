@@ -22,6 +22,8 @@
 - Focus Docker container view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>F</kbd>
 - Focus GitLab view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>G</kbd>
 - Focus NPM scripts view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>N</kbd>
+- Focus projects <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>P</kbd>
+- Select project <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
 - Move editor group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Left</kbd> / <kbd>Right</kbd> / <kbd>Up</kbd> / <kbd>Down</kbd>
