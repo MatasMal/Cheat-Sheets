@@ -67,6 +67,14 @@
 - Open breadcrumb <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>/</kbd>
 - Go to matching pair <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>5</kbd>
 
+### WSL
+
+- Open new WSL window <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>N</kbd>
+- Open new WSL window using Distro kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>D</kbd>
+- Open folder in WSL kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>F</kbd>
+- Reopen folder in WSL kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>C</kbd>
+- Reopen folder in Windows kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>W</kbd>
+
 ## Runtime
 
 ### Debugging
