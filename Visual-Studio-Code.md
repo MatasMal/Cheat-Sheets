@@ -70,10 +70,10 @@
 ### WSL
 
 - Open new WSL window <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>N</kbd>
-- Open new WSL window using Distro kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>D</kbd>
-- Open folder in WSL kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>F</kbd>
-- Reopen folder in WSL kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>C</kbd>
-- Reopen folder in Windows kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>W</kbd>
+- Open new WSL window using Distro <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>D</kbd>
+- Open folder in WSL <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>F</kbd>
+- Reopen folder in WSL <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>C</kbd>
+- Reopen folder in Windows <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>, <kbd>W</kbd>
 
 ## Runtime
 
