@@ -46,6 +46,7 @@
 - Clear all notifications <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>C</kbd>
 - Focus notification toast <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>T</kbd>
 - Show notifications <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>M</kbd>
+- Customize layout <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>
 
 ### Code navigation
 
