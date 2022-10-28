@@ -24,6 +24,8 @@
 - Focus NPM scripts view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>N</kbd>
 - Focus projects <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>P</kbd>
 - Focus remote explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>R</kbd>
+- Focus branches <kbd>Ctrl</kbd> + <kbd>G</kbd>, <kbd>B</kbd>
+- Focus commits <kbd>Ctrl</kbd> + <kbd>G</kbd>, <kbd>C</kbd>
 - Select project <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
