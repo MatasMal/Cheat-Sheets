@@ -65,6 +65,8 @@
 - Peek definition <kbd>Alt</kbd> + <kbd>F12</kbd>
 - Peek implementations <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F12</kbd>
 - Call hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
+- Find all implementations <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>
+- Show type hierarchy <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
