@@ -157,3 +157,4 @@
 
 - Stage change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
 - Unstage change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
+- Discard change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>
