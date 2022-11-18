@@ -158,3 +158,4 @@
 - Stage change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
 - Unstage change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
 - Discard change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>
+- Revert change in selected range <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
