@@ -34,3 +34,6 @@
 ## Remote connection
 - Focus out of RDP window <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Home</kbd>
 - Minimize RDP window <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Pause</kbd>
+
+## Power Toys
+- Run/search <kbd>Alt</kbd> + <kbd>F2</kbd> / <kbd>Win</kbd> + <kbd>F2</kbd>
