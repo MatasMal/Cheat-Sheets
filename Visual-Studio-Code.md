@@ -32,6 +32,8 @@
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
 - Move editor group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Left</kbd> / <kbd>Right</kbd> / <kbd>Up</kbd> / <kbd>Down</kbd>
 - Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
+- Close current editor tab <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Del</kbd>
+- Close current editor group <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Del</kbd>
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
 - Split editor <kbd>Ctrl</kbd> + <kbd>\\</kbd>
 - Move editor to new split editor <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
