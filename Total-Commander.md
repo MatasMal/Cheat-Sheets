@@ -1,4 +1,4 @@
-# Total Commander most used shortcuts
+# Total Commander / Double Commander (most overlapping) most used shortcuts
 
 ## Navigation
 
