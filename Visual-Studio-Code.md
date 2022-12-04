@@ -43,6 +43,8 @@
 - Settings search <kbd>Ctrl</kbd> + <kbd>,</kbd>
 - Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
 - Zoom in <kbd>Ctrl</kbd> + <kbd>=</kbd>
+- Zoom out font <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>-</kbd>
+- Zoom in font <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>=</kbd>
 - Increase current view size <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
 - Decrease current view size <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 - Open terminal in a folder <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
