@@ -15,12 +15,14 @@
 - Toggle debug console <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd>
 - Focus outline <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>O</kbd>
 - Focus Maven <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>M</kbd>
+- Focus Gradle project view <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>, <kbd>G</kbd>
 - Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
 - Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
 - Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
 - Focus Database view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>D</kbd>
 - Focus Docker container view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>F</kbd>
-- Focus GitLab view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>G</kbd>
+- Focus GitLab view <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>G</kbd>
+- Focus CMake view <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd>, <kbd>C</kbd>
 - Focus NPM scripts view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>N</kbd>
 - Focus projects <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>P</kbd>
 - Focus remote explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>R</kbd>
