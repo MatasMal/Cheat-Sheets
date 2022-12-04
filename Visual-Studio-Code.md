@@ -84,6 +84,7 @@
 - Previous tab <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>
 - Open breadcrumb <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>/</kbd>
 - Go to matching pair <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>5</kbd>
+- Go to matching bracket <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\</kbd>
 
 ### WSL
 
