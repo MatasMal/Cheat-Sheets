@@ -8,6 +8,10 @@
 - Refresh current directory <kbd>F2</kbd>
 - Focus command line terminal <kbd>Shift</kbd> + <kbd>F2</kbd>
 - Open terminal <kbd>F9</kbd>
+- Open selected directory in new tab <kbd>Ctrl</kbd> + <kbd>Up</kbd>
+- Invoke command line history <kbd>Ctrl</kbd> + <kbd>Down</kbd>
+- Cursor in right panel, open same panel in the left panel <kbd>Ctrl</kbd> + <kbd>Left</kbd>
+- Cursor in left panel, open same panel in the right panel <kbd>Ctrl</kbd> + <kbd>Right</kbd>
 
 ## Editing
 
