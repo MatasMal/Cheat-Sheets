@@ -12,6 +12,8 @@
 - Invoke command line history <kbd>Ctrl</kbd> + <kbd>Down</kbd>
 - Cursor in right panel, open same panel in the left panel <kbd>Ctrl</kbd> + <kbd>Left</kbd>
 - Cursor in left panel, open same panel in the right panel <kbd>Ctrl</kbd> + <kbd>Right</kbd>
+- Move tab to the left <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>
+- Move tab to the right <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Right</kbd>
 
 ## Editing
 
